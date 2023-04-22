@@ -1,11 +1,14 @@
-title: PhiloConda
+title: Philo-Conda
 description: Leçons de philosophie des classes de Terminale de R. Auda
 theme: just-the-docs
 baseurl: "/pt2023" # the subpath of your site, e.g. /blog
 url: https://rollauda.github.io
 repository: rollauda/pt2023 # for github-metadata
 aux_links:
-  Cours Auda: https://rollauda.github.io
+  Accueil: https://rollauda.github.io
+  Méthodologie: https://rollauda.github.io
+  Bibliographie: https://rollauda.github.io
+  Liens: https://rollauda.github.io
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false

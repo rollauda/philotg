@@ -4,9 +4,10 @@ layout: home
 nav_order: 1
 ---
 
-
 - **Site des leçons de philosophie des classes de Terminale (La Condamine, Quito, 2023 - 2024)**  
-- **Accès aux leçons : index ci-dessous et menu à gauche.**  
+- **Accès aux leçons : index ci-dessous et menu à gauche.** 
+
+ajouter biblio, liens, et faire une TOC
 
 ---  
 ## Index des leçons
