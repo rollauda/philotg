@@ -2,11 +2,26 @@
 title: Essai
 layout: default
 nav_order: 4
-permalink: /essai
-published: false
+permalink: /Modeles/essai
+published: true
 ---
+# Tests
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Sommaire
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
+## lien 
+[page](https://truc.com)
+
 ## image
-![My helpful screenshot](/assets/img/small.jpg)
+![on image](../../assets/img/small.jpg)
 
 ## Embed pdf
 

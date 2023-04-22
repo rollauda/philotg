@@ -16,4 +16,3 @@ ajouter biblio, liens, et faire une TOC
 [Leçon 1](http://rollauda.github.io/){: .btn .btn-green }  
 [Leçon 2](http://rollauda.github.io/pt2023/){: .btn .btn-blue }  
 </span>  
-
