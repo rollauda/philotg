@@ -12,7 +12,7 @@ ajouter biblio, liens, et faire une TOC
 ---  
 ## Index des leçons
 <span class="fs-3">
-[Présentation de l'année de philosophie](http://rollauda.github.io/){: .btn .btn-purple }  
-[Leçon 1](http://rollauda.github.io/){: .btn .btn-green }  
+[Présentation de l'année](https://rollauda.github.io/pt2023/docs/Pr%C3%A9sentation){: .btn .btn-purple }  
+[Leçon 1](https://rollauda.github.io/pt2023/docs/Le%C3%A7on1/){: .btn .btn-green }  
 [Leçon 2](http://rollauda.github.io/pt2023/){: .btn .btn-blue }  
 </span>  
