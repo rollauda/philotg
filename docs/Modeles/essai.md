@@ -3,7 +3,7 @@ title: Essai
 layout: default
 nav_order: 4
 permalink: /Modeles/essai
-published: true
+published: false
 ---
 # Tests
 {: .no_toc }
@@ -16,6 +16,38 @@ published: true
 - TOC
 {:toc}
 </details>
+
+## Stickers
+
+{: .highlight }
+texte fond jaune
+
+{: .highlight-title }
+> Titre
+>
+> texte fond jaune
+
+{: .note }
+A paragraph
+
+{: .note-title }
+> Changer titre de la note
+>
+> Note violette avec titre perso
+>
+> et  paragraphes avec saut de ligne
+
+{: .important }
+> Texte  
+> à la ligne deux espaces en fin de phrase
+
+{: .new }
+> Texte
+
+{: .new-title }
+> Titre de la note
+>
+> Fond vert
 
 ## lien 
 [page](https://truc.com)
@@ -34,4 +66,3 @@ published: true
 ## Vimeo
 
 <iframe src="https://player.vimeo.com/video/430695?h=b9727ea27a" width="640" height="479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/430695">Philosophie et Hallucinations - Sandra Laugier (extrait)</a> from <a href="https://vimeo.com/hallucinations">Paris Hallucinations</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
