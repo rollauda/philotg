@@ -6,4 +6,4 @@ nav_order: 1
 ---
 ## Fiche de présentation de l'année de philosophie
 
-{% pdf "/assets/pdf/presentation.pdf" %}
+{% pdf "../../assets/img/presentation.pdf" no_link %}
