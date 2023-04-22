@@ -5,7 +5,7 @@ baseurl: "/pt2023" # the subpath of your site, e.g. /blog
 url: https://rollauda.github.io
 repository: rollauda/pt2023 # for github-metadata
 aux_links:
-  Accueil Leçons Auda: https://rollauda.github.io
+  Cours Auda: https://rollauda.github.io
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
@@ -48,4 +48,22 @@ heading_anchors: true
 back_to_top: true
 back_to_top_text: "Back to top"
 
-#footer_content: "Copyright &copy; 2023-2024 Rolland Auda. <a href=\"https://condamine.edu.ec/">La Condamine, Quito</a>
+# Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
+color_scheme: nil
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
