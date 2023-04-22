@@ -1,4 +1,4 @@
-title: Philosophie Terminale
+title: PhiloConda
 description: Leçons de philosophie des classes de Terminale de R. Auda
 theme: just-the-docs
 baseurl: "/pt2023" # the subpath of your site, e.g. /blog
@@ -67,3 +67,8 @@ callouts:
   warning:
     title: Warning
     color: red
+
+mermaid:
+  # Version of mermaid library
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "10.1.0"
