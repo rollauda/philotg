@@ -5,10 +5,10 @@ baseurl: "/pt2023" # the subpath of your site, e.g. /blog
 url: https://rollauda.github.io
 repository: rollauda/pt2023 # for github-metadata
 aux_links:
-  Cours-Auda: https://rollauda.github.io
-  Méthodologie: https://rollauda.github.io/Modeles/methodo
+    Méthodologie: https://rollauda.github.io/Modeles/methodo
   Bibliographie: https://rollauda.github.io/pt2023/Modeles/biblio
   Liens: https://rollauda.github.io/pt2023/Modeles/liens
+  Cours-Auda: https://rollauda.github.io
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
