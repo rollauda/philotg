@@ -68,3 +68,12 @@ A paragraph
 ## Vimeo
 
 <iframe src="https://player.vimeo.com/video/430695?h=b9727ea27a" width="640" height="479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+## Tableaux
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |

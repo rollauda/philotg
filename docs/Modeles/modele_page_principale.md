@@ -7,4 +7,11 @@ permalink: /dossier/dossier
 published: false
 ---
 # Titre
-## Sous-titre
+## Récapitulatif
+
+| Leçon n°        | Titre         | 
+|:-------------|:------------------|:------|
+| Objecifs           | texte | 
+| Notions principales | `texte`   | 
+| Notions secondaires           | `texte`      | 
+| Perspectives           | `texte` | 
