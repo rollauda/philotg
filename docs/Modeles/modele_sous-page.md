@@ -3,7 +3,6 @@ layout: default
 title: Documents
 parent: Titre doc principal
 nav_order: 1
-permalink: /dossier/dossier
 published: false
 ---
 ## Documents de la leçon
