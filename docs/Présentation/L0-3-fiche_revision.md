@@ -8,6 +8,6 @@ published: true
 
 ## Modèle de fiche de révision
 Ci-dessous, le modèle de fiche de révision distribué en classe. Adaptez-le à votre manière de réviser.  
-Vous pouvez télécharger le [modèle en format docx](../../assets/img/modele_fiches_revision.docx) pour le transformer ou le remplir directement sur votre ordinateur.  
+Vous pouvez télécharger le [modèle en format docx](../../assets/docs/modele_fiches_revision.docx) pour le transformer ou le remplir directement sur votre ordinateur.  
 
-{% pdf "../../assets/img/modele_fiches_revision.pdf" no_link %}
+{% pdf "../../assets/pdf/modele_fiches_revision.pdf" no_link %}
