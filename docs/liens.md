@@ -17,7 +17,7 @@ published: true
 
 ## Radio
 
-- **France Culture**, [Les chemins de la philosophie](https://www.radiofrance.fr/franceculture/podcasts/les-chemins-de-la-philosophie)
+**France Culture** : [Les chemins de la philosophie](https://www.radiofrance.fr/franceculture/podcasts/les-chemins-de-la-philosophie) et [Avec philosophie](https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie)
 
 ## Magazine
 

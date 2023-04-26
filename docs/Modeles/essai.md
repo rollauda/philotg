@@ -1,11 +1,13 @@
 ---
 title: Essai
 layout: default
-nav_order: 20
+nav_order: 30
 has_children: false
 permalink: /Modeles/essai
 published: false
 ---
+
+![image](../assets/img/schema_conscience.svg)
 
 # Tests
 {: .no_toc }
@@ -55,11 +57,11 @@ A paragraph
 [page](https://truc.com)
 
 ## image
-![on image](../../assets/img/small.jpg)
+![on image](../../assets/img/caverne-harambat2.jpeg)
 
 ## Embed pdf
 
-{% pdf "../../assets/img/presentation.pdf" no_link %}
+{% pdf "../../assets/pdf/presentation.pdf" no_link %}
 
 ## Video youtube
 

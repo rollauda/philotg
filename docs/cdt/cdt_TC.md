@@ -6,7 +6,7 @@ has_children: false
 nav_order: 3
 published: true
 ---
-## Cahier de texte de TA
+## Cahier de texte de TC
 
 
 | Semaine        | Contenu          | Travaux |
