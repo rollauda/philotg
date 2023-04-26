@@ -7,7 +7,7 @@ permalink: /Modeles/biblio
 published: true
 ---
 # Bibliographie : conseils de lecture
-## OEUVRES PHILOSOPHIQUES CLASSIQUES
+## Œuvres philosophiques classiques
 - Platon, *Apologie de Socrate*
 - Epicure, *Lettre à Ménécée*
 - Epictète, *Manuel*
@@ -19,7 +19,7 @@ published: true
 - Sartre, *L’existentialisme est un humanisme*
 - Lévi-Strauss, *Race et histoire*
 
-## LIVRES D'INTRODUCTION À LA PHILOSOPHIE
+## Ouvrages d'introduction à la philosophie
 - Normand Baillargeon, *Stéroïdes pour comprendre la philosophie*
 - Pierre Blackburn, *Penser. Une irrésistible introduction à la philosophie*
 - Michel Puech, *La philosophie en clair*
