@@ -8,7 +8,7 @@ aux_links:
   Méthodologie: https://rollauda.github.io/Modeles/methodo
   Bibliographie: https://rollauda.github.io/pt2023/Modeles/biblio
   Liens: https://rollauda.github.io/pt2023/Modeles/liens
-  Cahiers de texte: https://rollauda.github.io/pt2023/docs/cdt/
+  Cahiers de texte: https://rollauda.github.io/pt2023/docs/cdt/cdt.html
   Cours-Auda: https://rollauda.github.io
 
 # Makes Aux links open in a new tab. Default is false
