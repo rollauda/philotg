@@ -18,3 +18,4 @@ published: true
 | S5 | ...   | ...  |
 | S6 | ...   | ...  |
 | S7 | ...   | ...  |
+| Vacances d'automne | ...   | ...  |
