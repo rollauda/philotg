@@ -1,6 +1,7 @@
 ---
 title: Liens
 layout: default
+permalink: /docs/liens.html
 nav_order: 19
 has_children: false
 published: true
