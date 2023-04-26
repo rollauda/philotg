@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Cahier de texte TA
+title: Cahier de texte TC
 parent: Cahiers de textes
 has_children: false
-nav_order: 1
+nav_order: 3
 published: true
 ---
 ## Cahier de texte de TA
