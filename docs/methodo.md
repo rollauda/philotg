@@ -3,7 +3,6 @@ title: Méthodologie
 layout: default
 nav_order: 17
 has_children: false
-permalink: /Modeles/methodo
 published: true
 ---
 # Méthodologie
