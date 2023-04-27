@@ -2,7 +2,7 @@
 title: marp
 layout: default
 nav_order: 40
-published: true
+published: false
 ---
 ## Sans le plugin vscodium
 Pour installer Marp et intégrer des présentations Marp dans un site Jekyll avec le thème Just the Docs, vous pouvez suivre les étapes suivantes :
