@@ -63,6 +63,10 @@ A paragraph
 
 {% pdf "../../assets/pdf/presentation.pdf" no_link %}
 
+**Taille limitée:**  
+{% pdf "../../assets/pdf/Philosophie_rhétorique.pdf" width=75% height=600px no_link %}
+
+
 ## Video youtube
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_-SO6rBizQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -79,3 +83,9 @@ A paragraph
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
+
+## embed markmap
+
+<iframe src="../assets/html/schema_conscience.html" width="100%" height="600px" frameborder="0"></iframe>
+
+<iframe src="../../assets/cartes/carte1.html" width="100%" height="600px" frameborder="0"></iframe>
