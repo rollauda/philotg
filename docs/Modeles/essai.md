@@ -59,12 +59,17 @@ A paragraph
 ## image
 ![on image](../../assets/img/caverne-harambat2.jpeg)
 
+**taille limitée**
+
+<img src="../../assets/img/caverne-harambat2.jpeg"  width="75%">
+
 ## Embed pdf
 
-{% pdf "../../assets/pdf/presentation.pdf" no_link %}
+{% pdf "../assets/pdf/presentation.pdf" no_link %}
 
 **Taille limitée:**  
-{% pdf "../../assets/pdf/Philosophie_rhétorique.pdf" width=75% height=600px no_link %}
+
+{% pdf "../assets/pdf/presentation.pdf" width=80% height=600px no_link %}
 
 
 ## Video youtube
