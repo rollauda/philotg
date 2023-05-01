@@ -4,10 +4,15 @@ layout: default
 nav_order: 40
 published: false
 ---
+
+## prévisualisation
+Vous pouvez activer la prévisualisation du code HTML dans Marp Markdown avec `markdown.marp.enableHtml` option dans le json. 
+→ shift+cmd+P : `ouvrir les paramètres json`
+
 ## Sans le plugin vscodium
 Pour installer Marp et intégrer des présentations Marp dans un site Jekyll avec le thème Just the Docs, vous pouvez suivre les étapes suivantes :
 
-1. Tout d'abord, installez Marp en utilisant la commande suivante dans le terminal :
+1. Tout d'abord, installez Marp en utilisant la commande suivante dans le terminal : 
 
 ```
 npm install -g @marp-team/marp-cli
