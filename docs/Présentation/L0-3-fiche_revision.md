@@ -7,6 +7,9 @@ published: true
 ---
 
 ## Modèle de fiche de révision
+
+`refaire la fiche avec moins de marge`  
+
 Ci-dessous, le modèle de fiche de révision distribué en classe. Adaptez-le à votre manière de réviser.  
 Vous pouvez télécharger le [modèle en format docx](../../assets/docs/modele_fiches_revision.docx) pour le transformer ou le remplir directement sur votre ordinateur.  
 

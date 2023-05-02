@@ -6,6 +6,11 @@ has_children: false
 published: true
 ---
 # Bibliographie : conseils de lecture
+
+## Magazine
+
+- **Philosophie magazine** est en prêt au CDI
+
 ## Œuvres philosophiques classiques
 - Platon, *Apologie de Socrate*
 - Epicure, *Lettre à Ménécée*
