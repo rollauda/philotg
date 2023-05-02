@@ -7,4 +7,4 @@ published: true
 ---
 ## Diaporama de la leçon
 
-`<iframe src="../../PATH/ptL2.html" width="80%" height="450px" frameborder="0"></iframe>`
+`<iframe src="https;//rollauda.github.io/diaporamas/diapos/DOSSIER/FICHIER.html" width="80%" height="450px" frameborder="0"></iframe>`
