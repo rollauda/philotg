@@ -5,10 +5,6 @@ baseurl: "/pt2023" # the subpath of your site, e.g. /blog
 url: https://rollauda.github.io
 repository: rollauda/pt2023 # for github-metadata
 aux_links:
-  Méthodologie: https://rollauda.github.io/pt2023/docs/methodo.html
-  Bibliographie: https://rollauda.github.io/pt2023/docs/biblio.html
-  Liens: https://rollauda.github.io/pt2023/docs/liens.html
-  Cahiers de texte: https://rollauda.github.io/pt2023/docs/cdt/cdt.html
   Cours-Auda: https://rollauda.github.io
   diapos: https://rollauda.github.io/diaporamas
   Schémas: https://rollauda.github.io/schemas
