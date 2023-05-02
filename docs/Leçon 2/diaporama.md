@@ -7,6 +7,6 @@ published: true
 ---
 ## Diaporama de la leçon
 
-<br>
 
-<iframe src="../../assets/html/ptL2.html" width="80%" height="450px" frameborder="0"></iframe>
+<iframe src="https://rollauda.github.io/marp/diapos/pt/ptL2.html" width="80%" height="450px" frameborder="0"></iframe>
+

@@ -9,6 +9,7 @@ aux_links:
   Bibliographie: https://rollauda.github.io/pt2023/docs/biblio.html
   Liens: https://rollauda.github.io/pt2023/docs/liens.html
   Cahiers de texte: https://rollauda.github.io/pt2023/docs/cdt/cdt.html
+  diapos: https://rollauda.github.io/diaporamas
   Cours-Auda: https://rollauda.github.io
 
 # Makes Aux links open in a new tab. Default is false

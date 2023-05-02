@@ -16,3 +16,4 @@ nav_order: 1
 [Leçon 1: La vérité se cache-t-elle ?](https://rollauda.github.io/pt2023/docs/Le%C3%A7on1/){: .btn .btn-green }  
 [Leçon 2: Comment définir l'humain ?](http://rollauda.github.io/pt2023/){: .btn .btn-blue }  
 </span>  
+

@@ -94,3 +94,7 @@ A paragraph
 <iframe src="../assets/html/schema_conscience.html" width="100%" height="600px" frameborder="0"></iframe>
 
 <iframe src="../../assets/cartes/carte1.html" width="100%" height="600px" frameborder="0"></iframe>
+
+## internal link
+
+[lien vers une page md]{{ site.baseurl }}{% link _docs/Présentation/L0.md %}

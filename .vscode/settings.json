@@ -1,3 +1,11 @@
 {
     "window.autoDetectColorScheme": true
 }
+{
+    "markdown.marp.themes": [
+      "./themes/moja-teal.css",
+      "./themes/freud.css",
+      "./themes/pt-gaia.css",
+      "./themes/hlp-gaia.css",
+    ]
+  }

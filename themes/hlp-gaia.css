@@ -1,0 +1,189 @@
+/*!
+ * Marp / Marpit Uncover Custom theme
+ *
+ * @theme hlp-gaia
+ * @author Rolland Auda from Kazuki Tanaka (tk-aria)
+ * @fittingCode false
+ */
+
+ @import 'gaia';
+
+ /* ------------------- général --------------------------*/
+
+ section {
+    font-size: 25pt;
+    justify-content: normal;
+    padding: 40px;
+    text-align: left;
+}
+
+h1 {
+  font-size: 1.8em;
+  font-weight: bold;
+  border-bottom: solid 4px #556B2F;
+  text-align: center;
+  padding: 5px;
+  
+}
+
+h2 {
+  font-size: 1.3em;
+  font-weight: bold;
+  border-bottom: solid 2px #739a2e;
+}
+
+h3,
+h4,
+h5,
+h6 {
+  font-size: 1.1em;
+  font-weight: bold;
+  text-align: left;
+}
+
+blockquote {
+    background: rgb(236, 236, 236);
+    border-left: 6px solid grey;
+    font-family: "Fira Sans Light";
+    color: rgb(83, 83, 83); 
+    font-size: 21pt;
+    text-align: left;
+    padding: 15px;
+}
+
+blockquote:before{
+    content: unset;
+  }
+
+  blockquote:after{
+    content: unset;
+  }
+  
+code {
+    font-size: 23px;
+    background: grey;
+    color: whitesmoke;
+    font-weight: bold;
+}
+
+
+ /* ------------------- couv -----------------------------*/
+
+ section.couv {
+    justify-content: center;
+    text-align: center;
+    color: #F5FFFA;
+    background-color: #708090;
+    font-size: 35px;
+    padding: 0px;
+  }
+
+  section.couv h1 {
+    border-bottom: 1px solid rgb(242, 160, 8);
+    font-size: 3.5em;
+    padding: 20px;
+  }
+  
+  section.couv h2 {
+    font-weight: 200;
+    font-size: 2.5em;
+    border-bottom: solid 0px rgb(215, 140, 0);
+    padding: 10px;
+  }
+  
+  section.couv h3 {
+    font-weight: 200;
+    font-size: 1em;
+    text-align: center;
+    background-color: rgb(215, 140, 0);
+    padding: 5px;
+    margin-left: -40px;
+    margin-right: -40px;
+    margin-top: -40;
+    margin-bottom: -40;
+    position: relative;
+    padding: 10px;
+  }
+
+  section.couv h4,
+  section.couv h5 {
+    font-size: 18pt;
+    text-align: center;
+  }
+
+ /* ------------------- titre partie -----------------------------*/
+
+ section.partie {
+  justify-content: center;
+  text-align: center;
+}
+
+ section.partie h1 {
+  font-size: 1.8em;
+  color: #F5FFFA;
+  background-color: #708090;
+  border-bottom: solid 4px grey;
+  margin-left: -15px;;
+  margin-right: -15px;
+  padding: 10px;
+  margin-top: 200px;
+}
+
+/* ------------------- texte -----------------------------*/
+section.texte {
+  font-family: "Fira Sans Light";
+  font-weight: initial;
+  font-size: 20pt;
+  }
+  
+section.texte p {
+  color: rgb(83, 83, 83);
+  text-align: left;
+  }
+
+
+section.texte h1 {
+  font-family: "Lato";
+  font-size: 1.2em;
+  color: rgb(83, 83, 83);
+  border-bottom: 0px;
+  text-align: center;
+  }
+
+  section.texte h2,
+  section.texte h3,
+  section.texte h4,
+  section.texte h5,
+  section.texte h6 {
+    font-size: 1em;
+    font-weight: bold;
+    text-align: right;
+    color: rgb(54, 53, 53);
+    border-bottom: solid 0px;
+  }
+
+
+
+section.texte blockquote:before {
+  content: unset;
+}
+
+section.texte blockquote:after{
+  content: unset;
+}
+
+/* ------------------- vidéo -----------------------------*/
+
+section.video {
+  justify-content: center;
+  text-align: center;
+  color: #F5FFFA;
+  background-color: black;
+  }
+
+  section.video h2,
+  section.video h3,
+  section.video h4 {
+    font-size: 24pt;
+    text-align: center;
+  }

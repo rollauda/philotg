@@ -1,9 +1,11 @@
 ---
 layout: default
-title: Documents de la leçon 1
+title: Documents de la leçon
 parent: Leçon 1
 nav_order: 1
 published: true
 ---
 # Documents de la leçon
-``fiche pdf L1``
+## Fiche-Leçon
+
+`{% pdf "../../assets/pdf/FICHIER.pdf" width=80% height=600px no_link %}`
