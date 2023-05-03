@@ -71,6 +71,10 @@ A paragraph
 
 {% pdf "../assets/pdf/presentation.pdf" width=80% height=600px no_link %}
 
+## video local
+
+<video src="../../assets/vid/inherit.mp4" controls="controls" style="max-width: 730px;">
+
 
 ## Video youtube
 
@@ -95,6 +99,3 @@ A paragraph
 
 <iframe src="../../assets/cartes/carte1.html" width="100%" height="600px" frameborder="0"></iframe>
 
-## internal link
-
-[lien vers une page md]{{ site.baseurl }}{% link _docs/Présentation/L0.md %}
