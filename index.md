@@ -17,7 +17,7 @@ nav_order: 1
 <span class="fs-3">
 [Présentation de l'année](https://rollauda.github.io/pt2023/docs/Pr%C3%A9sentation){: .btn .btn-purple }  
 [Leçon 1: La vérité se cache-t-elle ?](https://rollauda.github.io/pt2023/docs/Le%C3%A7on1/){: .btn .btn-green }  
-[Méthodologie 1 : Analyser et problématiser une question philosophique](https://rollauda.github.io/pt2023/docs/methodo1/m1.html){: .btn .btn-blue }  
+[Méthode 1 : Analyser et problématiser une question philosophique](https://rollauda.github.io/pt2023/docs/methodo1/m1.html){: .btn .btn-blue }  
 [Leçon 2: Comment définir l'humain ?](http://rollauda.github.io/pt2023/){: .btn .btn-purple }
 </span>  
 
