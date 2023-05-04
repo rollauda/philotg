@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Évaluation
-parent: Métodologie 1
+parent: Méthode 1
 has_children: #true ou false
 nav_order: 3
 published: true

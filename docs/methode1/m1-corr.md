@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Corrigé évaluation
-parent: Métodologie 1
+parent: Méthode 1
 has_children: #true ou false
 nav_order: 4
 published: false
