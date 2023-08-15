@@ -1,9 +1,9 @@
 title: Philo-Conda
 description: Documents des leçons de philosophie des classes de Terminale de R. Auda
 theme: just-the-docs
-baseurl: "/pt2023" # the subpath of your site, e.g. /blog
-url: https://rollauda.github.io
-repository: rollauda/pt2023 # for github-metadata
+baseurl: "/philogt" # the subpath of your site, e.g. /blog
+url: https://rollauda.github.io/
+repository: rollauda/philogt # for github-metadata
 aux_links:
   Accueil-Auda: https://rollauda.github.io
   Diaporamas: https://rollauda.github.io/diaporamas
