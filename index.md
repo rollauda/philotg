@@ -15,9 +15,9 @@ nav_order: 1
 ## Sommaire des leçons
 
 <span class="fs-3">
-[Présentation de l'année](../philogt/docs/Présentation/){: .btn .btn-purple }  
-[Leçon 1: L'allégorie de la caverne](../philogt/docs/Leçon%201/L1.md){: .btn .btn-green }  
-[Méthode 1 : Lire et analyser un texte philosophique](../philogt/docs/methode/m1.md){: .btn .btn-blue }  
-[Leçon 2 : ](../philogt/docs/Leçon%202/){: .btn .btn-purple }
+[Présentation de l'année](../philotg/docs/Présentation){: .btn .btn-purple }  
+[Leçon 1: L'allégorie de la caverne](../philotg/docs/Leçon%201/L1.md){: .btn .btn-green }  
+[Méthode 1 : Lire et analyser un texte philosophique](../philotg/docs/methode/m1.md){: .btn .btn-blue }  
+[Leçon 2 : ](../philotg/docs/Leçon%202){: .btn .btn-purple }
 </span>  
 
