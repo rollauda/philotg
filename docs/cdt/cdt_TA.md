@@ -11,7 +11,7 @@ published: true
 
 | Semaine            | Contenu                                                                               | Travaux |
 | :------------------- | :-------------------------------------------------------------------------------------- | :-------- |
-| S1                 | [Présentation de l'année](https://rollauda.github.io/pt2023/docs/Pr%C3%A9sentation) | ...     |
+| S1                 | [Présentation de l'année](../../docs/Présentation/) | ...     |
 | S2                 | ...                                                                                   | ...     |
 | S3                 | ...                                                                                   | ...     |
 | S4                 | ...                                                                                   | ...     |

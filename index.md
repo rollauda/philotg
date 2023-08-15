@@ -15,9 +15,9 @@ nav_order: 1
 ## Sommaire des leçons
 
 <span class="fs-3">
-[Présentation de l'année](https://rollauda.github.io/pt2023/docs/Pr%C3%A9sentation){: .btn .btn-purple }  
-[Leçon 1: La vérité se cache-t-elle ?](https://rollauda.github.io/pt2023/docs/Le%C3%A7on1/){: .btn .btn-green }  
-[Méthode 1 : Analyser et problématiser une question philosophique](https://rollauda.github.io/pt2023/docs/methode1/m1.html){: .btn .btn-blue }  
-[Leçon 2: Comment définir l'humain ?](http://rollauda.github.io/pt2023/){: .btn .btn-purple }
+[Présentation de l'année](../philogt/docs/Présentation/){: .btn .btn-purple }  
+[Leçon 1: L'allégorie de la caverne](../philogt/docs/Leçon%201/L1.md){: .btn .btn-green }  
+[Méthode 1 : Lire et analyser un texte philosophique](../philogt/docs/methode/m1.md){: .btn .btn-blue }  
+[Leçon 2 : ](../philogt/docs/Leçon%202/){: .btn .btn-purple }
 </span>  
 

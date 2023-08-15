@@ -9,7 +9,7 @@ published: true
 
 ## Magazine
 
-- **Philosophie magazine** est en prêt au CDI
+- **Philosophie magazine** et **Sciences Humaines** sont en prêt au CDI
 
 ## Œuvres philosophiques classiques
 - Platon, *Apologie de Socrate*

@@ -2,7 +2,7 @@
 layout: default
 title: L'allégorie de la caverne
 parent: Leçon 1
-has_children: false
+has_children: true
 nav_order: 3
 published: true
 ---
@@ -34,7 +34,7 @@ published: true
 Comment cela se pourrait-il s'ils sont forcés de rester la tête immobile durant toute leur vie ?
 Et pour les objets qui défilent n'en est-il pas de même ?  
 **GLAUCON -** Sans contredit.  
-**SOCRATE -** Mais, dans ces conditions, s'ils pouvaient se parler les uns aux autres, ne penses-tu pas qu'ils croiraient nommer les objets réels eux-mêmes en nommant ce qu'ils voient ?
+**SOCRATE -** Mais, dans ces conditions, s'ils pouvaient se parler les uns aux autres, ne penses-tu pas qu'ils croiraient nommer les objets réels eux-mêmes en nommant ce qu'ils voient ?  
 **GLAUCON -** Nécessairement.  
 **SOCRATE -** Et s'il y avait aussi dans la prison un écho que leur renverrait la paroi qui leur fait face, chaque fois que l'un de ceux qui se trouvent derrière le mur parlerait, croiraient-ils entendre une autre voix, à ton avis, que celle de l'ombre qui passe devant eux ?  
 **GLAUCON -** Non par Zeus.  
@@ -66,7 +66,3 @@ Et pour les objets qui défilent n'en est-il pas de même ?
 ### Vidéo : l'allégorie lue par Orson Welles
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2yfePu67xoI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-## Schéma : les différents degrés de connaissance dans l'allégorie
-
-{% pdf "../../assets/pdf/schema_caverne.pdf" width=80% height=480px no_link %}
