@@ -4,7 +4,7 @@ title: L'allégorie de la caverne
 parent: Leçon 1
 has_children: true
 nav_order: 3
-published: true
+published: false
 ---
 {: .no_toc }
 

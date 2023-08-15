@@ -8,6 +8,7 @@ aux_links:
   Accueil-Auda: https://rollauda.github.io
   Diaporamas: https://rollauda.github.io/diaporamas
   Schémas: https://rollauda.github.io/schemas
+  Roue: https://rollauda.github.io/roue
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
