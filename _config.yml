@@ -1,14 +1,16 @@
-title: Philo Conda Terminale
+title: Philo Conda
 description: Documents des leçons de philosophie des classes de Terminale de R. Auda
 theme: just-the-docs
-baseurl: "/philogt" # the subpath of your site, e.g. /blog
+baseurl: "/philotg" # the subpath of your site, e.g. /blog
 url: https://rollauda.github.io/
-repository: rollauda/philogt # for github-metadata
+repository: rollauda/philotg # for github-metadata
 aux_links:
-  Accueil-Auda: https://rollauda.github.io
+  CdT: https://rollauda.github.io/philotg/docs/divers/cdt/cdt.html
+  Notions: https://rollauda.github.io/philotg/docs/Pr%C3%A9sentation/L0-2-tableau.html
   Diaporamas: https://rollauda.github.io/diaporamas
   Schémas: https://rollauda.github.io/schemas
   Roue: https://rollauda.github.io/roue
+  Accueil-Auda: https://rollauda.github.io
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false

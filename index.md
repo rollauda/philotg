@@ -4,7 +4,8 @@ layout: home
 nav_order: 1
 ---
 
-**Documents des leçons de philosophie des classes de Terminale (La Condamine, Quito, 2023 - 2024)**  
+**Leçons de philosophie des classes de Terminale Tronc Commun**  
+**(La Condamine, Quito, 2023 - 2024)**  
 
 ```
 - Vous pouvez faire une recherche par mots clés en haut du site

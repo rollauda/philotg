@@ -1,9 +1,10 @@
 ---
 title: Bibliographie
 layout: default
-nav_order: 18
+nav_order: 1
+parent: Divers
 has_children: false
-published: false
+published: true
 ---
 # Bibliographie : conseils de lecture
 

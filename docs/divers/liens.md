@@ -2,9 +2,10 @@
 title: Liens
 layout: default
 permalink: /docs/liens.html
-nav_order: 19
+nav_order: 2
+parent: Divers
 has_children: false
-published: false
+published: true
 ---
 # Liens
 
