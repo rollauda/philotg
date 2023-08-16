@@ -8,17 +8,9 @@ nav_order: 1
 **(La Condamine, Quito, 2023 - 2024)**  
 
 ```
+- Accès aux leçons : menu à gauche
+- Menu du haut : accès aux cahiers de texte, au tableau des notions
 - Vous pouvez faire une recherche par mots clés en haut du site
-- Accès aux leçons : sommaire ci-dessous et menu à gauche
 ```
 
----  
-## Sommaire des leçons
-
-<span class="fs-3">
-[Présentation de l'année](../philotg/docs/Présentation){: .btn .btn-purple }  
-[Leçon 1: L'allégorie de la caverne](../philotg/docs/Leçon%201/L1.html){: .btn .btn-green }  
-[Méthode 1 : Lire et analyser un texte philosophique](../philotg/docs/methode/m1.html){: .btn .btn-blue }  
-[Leçon 2 : ](../philotg/docs/Leçon%202/L2.html){: .btn .btn-purple }
-</span>  
 
