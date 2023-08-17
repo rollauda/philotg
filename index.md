@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-**Leçons de philosophie des classes de Terminale Tronc Commun**  
+**Leçons de philosophie des classes de Terminale Tronc Commun**   
 **(La Condamine, Quito, 2023 - 2024)**  
 
 ```
