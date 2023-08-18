@@ -23,6 +23,8 @@ published: false
 
 ## Stickers
 
+[ui-components/callouts](https://just-the-docs.com/docs/ui-components/callouts/)
+
 {: .highlight }
 texte fond jaune
 
@@ -31,19 +33,25 @@ texte fond jaune
 >
 > texte fond jaune
 
+
+
 {: .note }
 A paragraph
 
 {: .note-title }
 > Changer titre de la note
 >
-> Note violette avec titre perso
+> **Note violette** avec titre perso
 >
 > et  paragraphes avec saut de ligne
 
+
+
 {: .important }
 > Texte  
-> à la ligne deux espaces en fin de phrase
+> à la ligne deux espaces en fin de phrase **bleu clair**
+
+
 
 {: .new }
 > Texte
