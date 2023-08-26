@@ -24,8 +24,8 @@ published: true
 {: .note-title }
 > Définition : Bonheur
 > 
-> mot formé en français de "bon" (contraire de mauvais) et de "heur" (sort, fatalité, destin). Le bonheur est donc, littéralement, le contraire du mauvais sort, de la malchance : il est un événement favorable, chanceux.
-Heureux / heureuse : état de celui / celle qui a atteint le bonheur
+> Mot formé en français de "bon" (contraire de mauvais) et de "heur" (sort, fatalité, destin). Le bonheur est donc, littéralement, le contraire du mauvais sort, de la malchance : il est un événement favorable, chanceux.  
+> Heureux / heureuse : état de celui / celle qui a atteint le bonheur
 
 {: .highlight }
 > Exercice : Expliquez la citation suivante. Que nous dit-elle du bonheur ?
