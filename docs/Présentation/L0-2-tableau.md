@@ -13,7 +13,7 @@ published: true
 |:-------------|:------------------|:------|
 | Art | ... | ...  |
 | Bonheur | ...   | ...  |
-| Conscience  | ... | L1  |
+| Conscience  | ... | ...  |
 | Devoir | ...   | ...  |
 | État  | ... | ...  |
 | Inconscient | ...   | ...  |
@@ -21,10 +21,10 @@ published: true
 | Langage | ...   | ...  |
 | Liberté  | ... | ...  |
 | Nature | ...   | ...  |
-| Raison  | ... | L1  |
+| Raison  | M1 | ...  |
 | Religion | ...   | ...  |
-| Science | ... | ...  |
+| Science | M1 | ...  |
 | Technique | ...   | ...  |
 | Temps | ... | ...  |
 | Travail | ...   | ...  |
-| Vérité  | L1 | ...  |
+| Vérité  | ... | ...  |
