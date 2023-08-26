@@ -8,7 +8,6 @@ published: true
 ---
 ## Introduction : Qu'est-ce qu'être heureux ?
 
-``Si aucune sous-sous page, table des matières :``
 {: .no_toc }
 
 <details open markdown="block">
@@ -20,7 +19,7 @@ published: true
 {:toc}
 </details>
 
-### Introduction : Comment définir le bonheur ?
+### Comment définir le bonheur ?
 
 {: .note-title }
 > Définition : Bonheur
