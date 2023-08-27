@@ -6,6 +6,7 @@ grand_parent: Leçon 3
 nav_order: 2
 published: true
 ---
+## Travail facultatif n°2
 {: .no_toc }
 
 <details open markdown="block">
@@ -16,8 +17,6 @@ published: true
 - TOC
 {:toc}
 </details>
-
-## Travail facultatif n°2
 
 ### Consignes
 

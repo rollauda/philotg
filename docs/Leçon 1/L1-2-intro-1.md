@@ -7,7 +7,6 @@ has_children: true
 published: true
 ---
 # Introduction : Qu'est-ce qu'être heureux ?
-
 {: .no_toc }
 
 <details open markdown="block">

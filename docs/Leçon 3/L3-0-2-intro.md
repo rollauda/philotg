@@ -6,7 +6,6 @@ nav_order: 2
 published: true
 ---
 # Introduction : Qu'est-ce que la vérité ?
-
 {: .no_toc }
 
 <details open markdown="block">
