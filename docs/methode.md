@@ -1,18 +1,19 @@
 ---
 title: Méthode
 layout: default
-nav_order: 17
-has_children: true
-published: false
+nav_order: 30
+has_children: false
+published: true
+nav_exclude: true
 ---
 # Méthode
 
-**Liens vers les différentes pages de méthode :**
+**<u>Liens vers les différentes pages de méthode</u> :**
 
-→ [Méthode 1 : Analyser et problématiser une quesiton philosophique](../docs/Methode%201/M1.html)
+→ [**Méthode 1 : Analyser et problématiser une question philosophique**](../docs/Methode%201/M1.html)
 
-→ [Méthode 2 : la dissertation](../docs/methode%202/m2.html)
+→ [**Méthode 2 : La dissertation**] (à venir)
 
-→ Méthode 3 : lire et analyser un texte philosophique
+→ [**Méthode 3 : Lire et comprendre un texte philosophique**] (à venir)
 
-→ Méthode 4 : l'explication de texte
+→ [**Méthode 4 : l'explication de texte**] (à venir)

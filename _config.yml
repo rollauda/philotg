@@ -7,6 +7,7 @@ repository: rollauda/philotg # for github-metadata
 aux_links:
   CdT: https://rollauda.github.io/philotg/docs/divers/cdt/cdt.html
   Notions: https://rollauda.github.io/philotg/docs/Pr%C3%A9sentation/L0-2-tableau.html
+  Méthode: https://rollauda.github.io/philotg/docs/methode.html
   Accueil-Auda: https://rollauda.github.io
 
 # Makes Aux links open in a new tab. Default is false
