@@ -7,7 +7,6 @@ nav_order: 1
 published: true
 ---
 
-
 ## Travail facultatif n°1
 
 ### Consigne

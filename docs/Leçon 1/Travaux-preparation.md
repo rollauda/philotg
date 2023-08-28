@@ -1,9 +1,11 @@
 ---
 layout: default
-title: Travail
-parent: Leçon 1
-nav_order: 7
-published: false
+title: Préparation de devoir
+# mettre "has_children: true" dans le yml de la page du niveau supérieur
+parent: Travaux
+grand_parent: Leçon 1
+nav_order: 1
+published: true
 ---
 # Préparation de devoir
 
