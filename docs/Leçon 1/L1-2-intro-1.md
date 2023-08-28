@@ -51,6 +51,10 @@ published: true
 > 1. Qu'est-ce que le "bon sens" ? (Aide : chercher des situations dans lesquelles on pourrait dire : « C'est une question de bon sens »)
 > 2. Que veut dire Descartes lorsqu'il affirme que le bon sens est « la chose du monde la mieux partagée. » ? Partagée entre qui ? Partagée comment ?
 
+### Complément : carte mentale
+
+→ Ouvrir la [carte mentale sur la Raison](https://rollauda.github.io/schemas/cartes/raison.html){:target="_blank" }
+
 ## Par quels moyens atteindre le bonheur ?
 
 | ARISTOTE, *Éthique à Nicomaque* (IVe s. avant J.-C.)        |
