@@ -11,8 +11,8 @@ published: true
 
 | Semaine     | Contenu     | Notions | Travaux |
 | :------------------- | :-------------- | :-------------- | :-------- |
-| 01/09  | [Présentation de l'année](../../../docs/Présentation) | ...     | ...     |
-| 04/09   | ...     | ...     | ...     |
+| 31/08  | [Présentation de l'année](../../../docs/Présentation) | ...     | ...     |
+| 04/09   | [Méthode 1](../../../docs/Methode%201/M1-0.html)     | SCIENCE, RAISON     | ...     |
 | 11/09   | ...     | ...     | ...     |
 | 18/09   | ...     | ...     | ...     |
 | 25/09   | ...     | ...     | ...     |
