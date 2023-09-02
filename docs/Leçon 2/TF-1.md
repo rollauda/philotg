@@ -14,7 +14,7 @@ published: true
 {: .note-title }
 > PRÉSENTATION ORALE
 >
-> Présenter à la classe deux extraits du film Matrix et expliquez en quoi ils illustrent la machine à illusions de Robert Nozick.
+> Présentez à la classe deux extraits du film Matrix et expliquez en quoi ils illustrent la machine à illusions de Robert Nozick.
 
 {: .nouveau-title }
 >Consignes 
