@@ -10,7 +10,7 @@ nav_exclude: true
 
 **<u>Liens vers les différentes pages de méthode</u> :**
 
-→ [**Méthode 1 : Analyser et problématiser une question philosophique**](../docs/Methode%201/M1-0.html)
+→ [**Méthode 1 : Analyser et problématiser une question philosophique**](../docs/M1/M1-0.html)
 
 → [**Méthode 2 : La dissertation**] (à venir)
 
