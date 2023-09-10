@@ -13,7 +13,7 @@ published: true
 | :------------------- | :-------------- | :-------------- | :-------- |
 | 31/08  | [Présentation de l'année](../../../docs/Présentation) | ...     | ...     |
 | 04/09   | [Méthode 1](../../../docs/Methode%201/M1-0.html)     | SCIENCE, RAISON     | ...     |
-| 11/09   | ...     | ...     | ...     |
+| 11/09   | [Leçon 1](../../../docs/L1/L1-0.html)     | BONHEUR, RAISON     | Préparation de la 1ère dissertation <br> + 1 travail facultatif    |
 | 18/09   | ...     | ...     | ...     |
 | 25/09   | ...     | ...     | ...     |
 | 02/10   | ...     | ...     | ...     |

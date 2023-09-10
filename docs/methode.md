@@ -12,7 +12,7 @@ nav_exclude: true
 
 → [**Méthode 1 : Analyser et problématiser une question philosophique**](../docs/M1/M1-0.html)
 
-→ [**Méthode 2 : La dissertation**] (à venir)
+→ [**Méthode 2 : La dissertation**](../docs/M2/M2.html)
 
 → [**Méthode 3 : Lire et comprendre un texte philosophique**] (à venir)
 
