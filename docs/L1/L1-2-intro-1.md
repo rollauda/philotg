@@ -40,7 +40,7 @@ published: true
 {: .note-title }
 > Définition : Eudémonisme
 > 
-> Théorie selon laquelle le but d'une vie humaine est le bonheur, ou "souverain bien" (bien : ce que l'on recherche ; souverain : ce qui est au-dessus de tout, ce qui est la finalité dernière de toutes les actions). Ce bonheur n'est pas conçu comme quelque chose de sensible (le plaisir), mais comme une vie intellectuelle conforme à la raison.
+> **Théorie selon laquelle le but d'une vie humaine est le bonheur, ou "souverain bien"** (<u>bien</u> : ce que l'on recherche ; <u>souverain</u> : ce qui est au-dessus de tout, ce qui est la finalité dernière de toutes les actions). **Ce bonheur n'est pas conçu comme quelque chose de sensible (le plaisir), mais comme une vie intellectuelle conforme à la <u>raison</u>.**
 
 ## Qu'est-ce que la "raison" ?
 
@@ -63,6 +63,6 @@ published: true
 | **1. Dans le §1, Aristote dénombre trois genres de vie, chacun visant à obtenir le bonheur : <br />- Nommez ces trois genres de vie <br />- Lequel peut nous procurer le plus de bonheur ?<br />- Pourquoi les 2 autres genres de vie sont-ils imparfaits ? Quels sont les arguments d'Aristote ?<br />2. Dans le §2, Aristote aborde un dernier genre de vie :<br />- De quel genre de vie s'agit-il ?<br />- Pourquoi ne peut-il pas rendre heureux ?<br />3. Comment les gens conçoivent en général le bonheur ?*<br />4. Quels devraient être normalement les bons critères pour définir la vie heureuse ?** |
 
 {: .important-title }
-> - **En complément**, étudier la fiche ["Aristote : le souverain bien, les trois genres de vie et les 3 âmes"](../../docs/Leçon%201/L1-2-intro-2.html)
+> - **En complément**, étudier la fiche ["Aristote : le souverain bien, les trois genres de vie et les 3 âmes"](../../docs/L1/L1-2-intro-2.html)
 
 
