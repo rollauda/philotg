@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Calendrier hvdc
+title: Calendrier hvc
 parent: Vie de classe TB
 grand_parent: Divers
 has_children: false
