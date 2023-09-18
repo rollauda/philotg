@@ -15,7 +15,7 @@ published: true
 >> **Faut-il satisfaire tous ses désirs pour être heureux ?**
 >
 > La dissertation sera rédigée en classe en deux heures sans documents à votre disposition (manuel, cahier, brouillon).
-> Le seul document autorisé sera une feuille <u>recto</u> (vide au verso) avec votre plan détaillé.
+> Le seul document autorisé sera une feuille <u>recto</u> (vide au verso) avec votre plan détaillé. <u>Vous devrez le joindre à votre copie.</u>
 > **IMPORTANT : VOTRE DEVOIR DEVRA RÉUTILISER LES THÈSES, ARGUMENTS, EXEMPLES VUS PENDANT LA LEÇON.**  
 >
 > Aidez-vous des fiches-méthode distribuées :
