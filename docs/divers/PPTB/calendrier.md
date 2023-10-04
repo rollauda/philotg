@@ -11,4 +11,5 @@ published: true
 
 | date | contenu | à faire |
 | :--------- | :------- | :--------- |
-| 04/09 | fiche de renseignement et calendrier orientation | ... |
+| 04/09 | Fiche de renseignement et calendrier orientation | ... |
+| 02/10 | Élection des délégués et éco-délégués <br> Enquête en ligne DECE | ... |

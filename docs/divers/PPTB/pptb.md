@@ -8,6 +8,10 @@ published: true
 ---
 # Vie de classe des TB
 
-**Délégués provisoires** :
-- Anahí Garces
-- Briana Jegou
+**Délégués de classe** :
+- Emilio Cerbino (suppléante : Camila Puyol)
+- Rebecca Benaïm (suppléante : Atalia Negrete)
+
+**Éco-délégués** :
+- Nicolás Silva 
+- Esteban Alban
