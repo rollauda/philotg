@@ -22,7 +22,7 @@ published: true
 > - Avoir vu le film et en résumer l'intrigue à la classe
 >- Situer l'extrait n°1 et l'extrait n°2 dans le film
 > - Expliquer comment Neo (extrait n°1) et Cypher (extrait n°2) répondent de manières contraires à la question *"Peut-on se nourrir d'illusions ?"*. Appuyez vos explications de références aux textes vus en classe.
-> - Montrer le rapport entre Matrix et la machine à illusions de nozick
+> - Montrer le rapport entre Matrix et la machine à illusions de Nozick
 
 ### Extrait n°1 : la pilule rouge ou la pilule bleue ?
 
