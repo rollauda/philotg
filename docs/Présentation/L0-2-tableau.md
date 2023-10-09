@@ -11,20 +11,20 @@ published: true
 
 | Notions        | directement abordées        | indirectement abordées |
 |:-------------|:------------------|:------|
-| Art | ... | ...  |
-| Bonheur | ...   | ...  |
-| Conscience  | ... | ...  |
+| Art | ... | L2  |
+| Bonheur | L1, L2   | ...  |
+| Conscience  | ... | L2  |
 | Devoir | ...   | ...  |
 | État  | ... | ...  |
 | Inconscient | ...   | ...  |
-| Justie   | ... | ...  |
+| JustiCe   | ... | ...  |
 | Langage | ...   | ...  |
-| Liberté  | ... | ...  |
-| Nature | ...   | ...  |
-| Raison  | M1 | ...  |
-| Religion | ...   | ...  |
+| Liberté  | ... | L1  |
+| Nature | ...   | L1  |
+| Raison  | M1, L1 | ...  |
+| Religion | ...   | M1  |
 | Science | M1 | ...  |
 | Technique | ...   | ...  |
-| Temps | ... | ...  |
+| Temps | ... | L2  |
 | Travail | ...   | ...  |
-| Vérité  | ... | ...  |
+| Vérité  | L2 | ...  |

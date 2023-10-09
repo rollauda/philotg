@@ -16,7 +16,7 @@ published: true
 | 11/09   | - [Leçon 1](../../../docs/L1/L1-0.html)  | BONHEUR, RAISON     | [Préparation de la 1ère dissertation](../../../docs/L1/Travaux-preparation.html) <br> + [1 travail facultatif](../../../docs/L1/Travaux-eternel.html)    |
 | 18/09   |- [Leçon 1](../../../docs/L1/L1-0.html)  <br> - [Méthode 2](../../../docs/M2/m2.html)     | BONHEUR, RAISON     |  Exercice évalué : tableau <br> du débat Socrate - Calliclès     |
 | 25/09   | [Leçon 1](../../../docs/L1/L1-0.html)     | BONHEUR, RAISON     |  ...     |
-| 02/10   | - Évaluation 2H : rédaction d'une dissertation <br> - [Leçon 2](../../../docs/L2/L2-0-fiche.html)    | ...     | ...     |
-| 09/10   | ...     | ...     | ...     |
-| 16/10   | ...     | ...     | ...     |
+| 02/10   | - Évaluation 2H : rédaction d'une dissertation <br> - [Leçon 2](../../../docs/L2/L2-0-fiche.html)    | VÉRITÉ, BONHEUR     | ...     |
+| 09/10   | [Leçon 2](../../../docs/L2/L2-0-fiche.html)     | VÉRITÉ, BONHEUR     | ...     |
+| 16/10   | [Leçon 2](../../../docs/L2/L2-0-fiche.html)     | VÉRITÉ, BONHEUR     | ...     |
 | Vacances d'automne | ...  | ...  | ...     |
