@@ -11,7 +11,7 @@ published: true
 
 | Semaine     | Contenu     | Notions | Travaux |
 | :------------------- | :-------------- | :-------------- | :-------- |
-| Vacances d'automne | ...  | ...  | Réviser pour le devoir type bac de la rentrée les leçons vues et la méthode de la dissertation     |
+| Vacances d'automne | ...  | ...  | Réviser pour le devoir type bac de la rentrée les leçons et la méthode de la dissertation     |
 | 16/10   | [Leçon 2](../../../docs/L2/L2-0-fiche.html)     | VÉRITÉ, BONHEUR     | ...     |
 | 09/10   | [Leçon 2](../../../docs/L2/L2-0-fiche.html)     | VÉRITÉ, BONHEUR     | ...     |
 | 02/10   | - Évaluation 2H : rédaction d'une dissertation <br> - [Leçon 2](../../../docs/L2/L2-0-fiche.html)    | VÉRITÉ, BONHEUR     | ...     |
