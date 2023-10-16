@@ -14,6 +14,6 @@ nav_exclude: true
 
 → [**Méthode 2 : La dissertation**](../docs/M2/m2.html)
 
-→ [**Méthode 3 : Lire et comprendre un texte philosophique**] (à venir)
+→ [**Méthode 3 : Lire et comprendre un texte philosophique**](../docs/M3/m3.html)
 
 → [**Méthode 4 : l'explication de texte**] (à venir)
