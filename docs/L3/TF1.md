@@ -6,7 +6,7 @@ grand_parent: Leçon 3
 nav_order: 1
 published: true
 ---
-## Travail facultatif n°1
+## Travail facultatif écrit (pour tous les élèves)
 {: .no_toc }
 
 <details open markdown="block">
@@ -23,9 +23,11 @@ published: true
 {: .nouveau-title }
 >Pyrrhon et Anaxarque
 >
-> Lire le texte de Roger Pol-Droit qui raconte l'anecdote de Pyrrhon qui ne sauve pas Anaxarque de la noyade et le présenter à la classe.
-> - Sur quels arguments repose l'attitude de Pyrrhon ?
-> - Quel problème moral sa décision pose-t-elle ?
+> Lire le texte de Roger Pol-Droit qui raconte l’anecdote de Pyrrhon qui ne sauve pas Anaxarque de la noyade et répondre :
+>
+>1. Sur quels arguments repose l’attitude de Pyrrhon ?
+>2. Quel problème moral sa décision pose-t-elle ?
+>3. Ecrire une courte histoire, différente de celle racontée par Roger Pol-Droit, mais qui met en scène le même problème phiosophique
 
 ### Texte à étudier
 

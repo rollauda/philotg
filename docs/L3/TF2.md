@@ -6,7 +6,7 @@ grand_parent: Leçon 3
 nav_order: 2
 published: true
 ---
-## Travail facultatif n°2
+## Travail facultatif oral (en binôme, envoyer sa demande par mail)
 {: .no_toc }
 
 <details open markdown="block">
