@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Fiches de révision
+title: Fiche de révision
 parent: Présentation de l'année
-nav_order: 3
+nav_order: 4
 published: true
 ---
 
