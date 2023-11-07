@@ -79,9 +79,11 @@ En un second sens, la vérité est la cohérence logique entre les différents
 >
 > L'exemple célèbre utilisé par Aristote est le suivant : 
 >
->> [majeure] **Tous les hommes** (A) **sont mortels** (B)  
->> [mineure] **Or Socrate** (C) **est un homme** (A)  
->> [conclusion] **Donc Socrate** (C) **est mortel** (B).  
+>> [majeure] **Tous les hommes** (H) **sont mortels** (M)  
+>> [mineure] **Or Socrate** (S) **est un homme** (H)  
+>> [conclusion] **Donc Socrate** (S) **est mortel** (M).  
+>
+>>> → **<u>Exercice : représentez le syllogisme précédent sous forme de groupe</u>s**
 >
 > **Ce syllogisme est vrai en deux sens :**
 >> - C'est une vérité de fait (vérité-adéquation), car Socrate est bien un être mortel
