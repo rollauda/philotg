@@ -3,7 +3,7 @@ layout: default
 title: Introduction
 parent: Leçon 3
 nav_order: 2
-has_children: false
+has_children: true
 published: true
 ---
 # Introduction : Qu'est-ce que la vérité ?
@@ -94,7 +94,7 @@ En un second sens, la vérité est la cohérence logique entre les différents
 >> - C'est une vérité-cohérence (en logique, on parle de **vérité formelle**), car le syllogisme est cohérent, valide sur la forme.
 
 {: .important-title }
-> DES VÉRITÉS NON-DÉMONTRÉE : VRAIES SUR LE FOND, MAIS FAUSSES DANS LEUR RAISONNEMENT
+> DES VÉRITÉS NON-DÉMONTRÉE : VRAIES SUR LE FOND, MAIS INCOHÉRENTES, FAUSSES DANS LEUR RAISONNEMENT
 >
 > **Une affirmation peut être vraie sur le fond (vérité-adéquation, vérité matérielle) et fausse sur la forme (vérité-cohérence, ou vérité formelle). Cela signifie que la vérité n'a pas pu être démontrée. Nous avons une vérité matérielle, mais pas une vérité formelle.**  
 >**EXEMPLE :**
@@ -106,7 +106,7 @@ En un second sens, la vérité est la cohérence logique entre les différents
 >>> → **<u>Exercice : représentez ce syllogisme invalide sous formes de groupes (cercles) pour comprendre.</u>**
 
 {: .highlight-title }
-> DES DÉMONSTRATIONS FAUSSES : COHÉRENTES MAIS FAUSSES SUR LE FOND, VRAIES FORMELLEMENT MAIS FAUSSES MATÉRIELLEMENT</u>
+> DES DÉMONSTRATIONS COHÉRENTES MAIS FAUSSES SUR LE FOND, VRAIES FORMELLEMENT MAIS FAUSSES MATÉRIELLEMENT</u>
 >
 > **Une affirmation peut être fausse sur le fond (vérité-adéquation ou vérité matérielle) et vraie sur la forme (vérité-cohérence, ou vérité formelle). <u>EXEMPLE:</u>**
 >
@@ -118,9 +118,14 @@ En un second sens, la vérité est la cohérence logique entre les différents
 >> Or, Bilbo est un Hobbit (C = A)  
 >> Donc, Bilbo est peureux. (C = B)
 
+{: .note-title }
+> Faire des exercices de syllogistique
+>
+> [→ Exercices](../../docs/L3/L3-0-2-2.html)
+
 ## Synthèse
 
-{: .note-title }
+{: .important-title }
 >Exercice : 
 >
 > Faire un tableau à deux colonnes. Dans chaque colonne, introduisez un type de vérité avec ses différentes dénominations. En-dessous, donnez des exemples de chaque type de vérité puis leur définition.
