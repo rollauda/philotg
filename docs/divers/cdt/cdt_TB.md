@@ -11,7 +11,8 @@ published: true
 
 | Semaine     | Contenu     | Notions | Travaux |
 | :------------------- | :-------------- | :-------------- | :-------- |
-|  06/11  |  - Devoir commun 4h <br> - Leçon 3 | VÉRITÉ, RAISON | ... |
+|  13/11  |  [Leçon 3](../../../docs/L3/L3-0-1-fiche.html) | VÉRITÉ, RAISON | ... |
+|  06/11  |  - Devoir commun 4h <br> - [Leçon 3](../../../docs/L3/L3-0-1-fiche.html) | VÉRITÉ, RAISON | ... |
 | Vacances d'automne | ...  | ...  | Réviser pour le devoir commun de la rentrée les leçons et la méthode de la dissertation     |
 | 16/10   | [Leçon 2](../../../docs/L2/L2-0-fiche.html)     | VÉRITÉ, BONHEUR     | ...     |
 | 09/10   | [Leçon 2](../../../docs/L2/L2-0-fiche.html)     | VÉRITÉ, BONHEUR     | ...     |
