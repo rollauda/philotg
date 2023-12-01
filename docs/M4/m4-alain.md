@@ -3,7 +3,7 @@ layout: default
 title: Alain
 parent: Méthode 4
 nav_order: 2
-published: false
+published: true
 ---
 ##  Exemple d'analyse et plan détaillé : Alain, "Penser, c'est dire non"
 
