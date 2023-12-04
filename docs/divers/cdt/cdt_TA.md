@@ -11,7 +11,7 @@ published: true
 
 | Semaine     | Contenu     | Notions | Travaux |
 | :------------------- | :-------------- | :-------------- | :-------- |
-| 04/12   | - Évaluation 2H : plan détaillé d'explication de texte   | ...     | ...     |
+| 04/12   | - Évaluation 2H : plan détaillé d'explication de texte <br> - [Leçon 4](../../../docs/L4/L4-0-1-fiche.html)  | ...     | ...     |
 |  27/11  |  - [Leçon 3](../../../docs/L3/L3-0-1-fiche.html) <br> - [méthode 3 : analyser un texte](../../../docs/M3/m3.html) <br> - [méthode 4 : l'explication de texte](../../../docs/M4/m4.html) | VÉRITÉ, RAISON | Préparer le DS |
 |  20/11  |  [Leçon 3](../../../docs/L3/L3-0-1-fiche.html) | VÉRITÉ, RAISON | ... |
 |  13/11  |  [Leçon 3](../../../docs/L3/L3-0-1-fiche.html) | VÉRITÉ, RAISON | ... |
