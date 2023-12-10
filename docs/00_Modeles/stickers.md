@@ -41,7 +41,7 @@ A paragraph
 > Texte
 
 {: .nouveau-title }
-> **VERT**
+> **VERT** 
 >
 > Fond vert
 
