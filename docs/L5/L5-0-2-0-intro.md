@@ -2,7 +2,7 @@
 layout: default
 title: Introduction
 parent: Leçon 5
-has_children: true
+has_children: false
 nav_order: 2
 published: true
 ---
