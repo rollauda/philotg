@@ -11,6 +11,9 @@ published: true
 
 | Semaine     | Contenu     | Notions | Travaux |
 | :------------------- | :-------------- | :-------------- | :-------- |
+| 22/01   | [Leçon 5](../../../docs/L5/L5-0-0.html)  | SCIENCE     | ...     |
+| 15/01   | [Leçon 4](../../../docs/L4/L4-0-1-fiche.html)  | RELIGION     | ...     |
+| 08/01   | Professeur absent  | ...     | ...     |
 | 18/12   | [Leçon 4](../../../docs/L4/L4-0-1-fiche.html)  | RELIGION     | ...     |
 | 11/12   | [Leçon 4](../../../docs/L4/L4-0-1-fiche.html)  | RELIGION     | ...     |
 | 04/12   | - Évaluation 2H : plan détaillé d'explication de texte <br> - [Leçon 4](../../../docs/L4/L4-0-1-fiche.html)  | RELIGION     | ...     |
