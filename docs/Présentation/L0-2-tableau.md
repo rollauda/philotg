@@ -7,7 +7,8 @@ published: true
 ---
 
 ## Tableau des notions étudiées pendant l'année
-*Tableau mis à jour après chaque leçon.*
+*Tableau mis à jour après chaque leçon.*  
+→ Voir un [tableau détaillé de toutes les notions](../../docs/Présentation/L0-3-notions.html) avec résumé des thèses vues dans chaque leçon.
 
 | Notions        | directement abordées        | indirectement abordées |
 |:-------------|:------------------|:------|
