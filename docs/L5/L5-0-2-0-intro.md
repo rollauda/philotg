@@ -56,12 +56,8 @@ Selon le dictionnaire "Le Petit Robert", la science est :
 
 ### Correction du tableau
 
-- [Tableau TA](https://docs.google.com/document/d/1LutIeVSOh-QeSoSNJLk6MnlVod2QCvYTaApsQK_i5Y4/edit?usp=sharing){:target="_blank" }
-- [Tableau TB](https://docs.google.com/document/d/18SafCL6WTz3bCN5hzMKoVoiFXr1KRg5_qysTZCZ__9A/edit?usp=sharing){:target="_blank" }
+- [Fichier google doc](https://docs.google.com/document/d/1-WGLmbOpi-7EAgr8PrnxBQbHmUzidKgj4WlxDAXN1GQ/edit?usp=sharing){:target="_blank" }
 
 ## Complément : La démarche scientifique dans les sciences de la nature
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/59wYmEoccF8?si=7josSabKPPRgFwzY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-## Exercice de groupe évalué (enseignement en distanciel)
-[-> lien vers le google doc](https://docs.google.com/document/d/1j18xNws06Czlvfe067QAKb0aPJ4W6wmOPQUNCruWje8/edit?usp=sharing){:target="_blank" } 
