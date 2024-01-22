@@ -4,6 +4,7 @@ title: Travaux
 parent: Leçon 5
 nav_order: 10
 published: true
+has_children: false
 ---
 # Travaux facultatifs 
 {: .no_toc }
