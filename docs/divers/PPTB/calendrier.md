@@ -15,3 +15,4 @@ published: true
 | 02/10 | Élection des délégués et éco-délégués <br> Enquête en ligne DECE | ... |
 | 13/11 | Réflexion sur le projet d'orientation : pays, type d'études (université, prépa, école, BTS, etc.), discipline ou métier étudié | Questionnaire (voir pronote) |
 | 27/11 | Préparation du conseil de classe + Orientation |  ... |
+| 22/01 |Bilan des classes en distanciel |  ... |
