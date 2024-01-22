@@ -62,3 +62,6 @@ Selon le dictionnaire "Le Petit Robert", la science est :
 ## Complément : La démarche scientifique dans les sciences de la nature
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/59wYmEoccF8?si=7josSabKPPRgFwzY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Exercice de groupe évalué (enseignement en distanciel)
+[-> lien vers le google doc](https://docs.google.com/document/d/1j18xNws06Czlvfe067QAKb0aPJ4W6wmOPQUNCruWje8/edit?usp=sharing){:target="_blank" } 
