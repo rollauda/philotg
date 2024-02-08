@@ -24,6 +24,7 @@ has_children: false
 {: .note-title }
 > Travail facultatif écrit
 >
+> **SOUS LA FORME D’UNE ENQUÊTE POLICIÈRE :**   
 > - Dans un premier temps, démontrez de manière déductive que la perfection existe.   
 > - Dans un second temps, critiquez par un raisonnement inductif cette démonstation.   
 > 
