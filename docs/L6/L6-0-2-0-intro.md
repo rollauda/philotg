@@ -7,6 +7,16 @@ nav_order: 2
 published: true
 ---
 # Introduction : Les trois sens du mot "Nature"
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Sommaire
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 {: .highlight-title }
 **Notion du programme** : NATURE.
