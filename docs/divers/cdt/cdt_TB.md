@@ -11,6 +11,11 @@ published: true
 
 | Semaine     | Contenu     | Notions | Travaux |
 | :------------------- | :-------------- | :-------------- | :-------- |
+| 18/03 | [Leçon 7](../../../docs/L7/L7-0-0.html)   | TRAVAIL, TECHNIQUE, CONSCIENCE  | ...  |
+| 11/03 | [Leçon 7](../../../docs/L7/L7-0-0.html)   | TRAVAIL, TECHNIQUE, CONSCIENCE  | ...  |
+| 04/03 | [Leçon 6](../../../docs/L6/L6-0-0.html)   | NATURE  | ...  |
+| Vacances d'hiver | ---------  | ---------  | ---------  |
+| 12/02 | [Leçon 6](../../../docs/L6/L6-0-0.html)   | NATURE  | ...  |
 | 05/02   | Bac Blanc  | ...     | ... |
 | 29/01   | [Leçon 5](../../../docs/L5/L5-0-0.html)  | SCIENCE     | Révisions bac blanc  |
 | 22/01   | [Leçon 5](../../../docs/L5/L5-0-0.html)  | SCIENCE     | ...     |
