@@ -11,6 +11,7 @@ published: true
 
 | Semaine     | Contenu     | Notions | Travaux |
 | :------------------- | :-------------- | :-------------- | :-------- |
+| 25/03 | - [Leçon 7](../../../docs/L7/L7-0-0.html) <br> - [Leçon 8](../../../docs/L8/L8-0-0.html) | LANGAGE, NATURE  | ...  |
 | 18/03 | [Leçon 7](../../../docs/L7/L7-0-0.html)   | TRAVAIL, TECHNIQUE, CONSCIENCE  | ...  |
 | 11/03 | [Leçon 7](../../../docs/L7/L7-0-0.html)   | TRAVAIL, TECHNIQUE, CONSCIENCE  | ...  |
 | 04/03 | [Leçon 6](../../../docs/L6/L6-0-0.html)   | NATURE  | ...  |
