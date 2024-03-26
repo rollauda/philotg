@@ -5,7 +5,7 @@ parent: Présentation de l'année
 nav_order: 3
 published: true
 ---
-## Tableau détaillé des notions par leçon 
+## Index détaillé des notions par leçon 
 
 **Mis à jour tout au long de l'année.**
 
