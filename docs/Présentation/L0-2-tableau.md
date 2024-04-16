@@ -12,21 +12,21 @@ published: true
 
 | Notions        | directement abordées        | indirectement abordées |
 |:-------------|:------------------|:------|
-| Art | ... | L2  |
-| Bonheur | L1, L2   | L3, L4  |
+| Art | L9 | L2  |
+| Bonheur | L1, L2   | L3, L4, L10  |
 | Conscience  | L7 | L2, L3, L4, L8  |
-| Devoir | ...   | ...  |
-| État  | ... | L7, L8  |
+| Devoir | L10, L11   | L9  |
+| État  | ... | L7, L8, L11  |
 | Inconscient | ...   | L8  |
-| Justice   | ... | L4, L7, L8  |
+| Justice   | L10, L11 | L4, L7, L8, L9  |
 | Langage | L8   | L6  |
-| Liberté  | ... | L1, L7  |
-| Nature | L6, L8   | L1, L4, L7  |
-| Raison  | M1, L1, L3 | L4, L5, L8  |
+| Liberté  | L10, L11 | L1, L7  |
+| Nature | L6, L8   | L1, L4, L7, L9  |
+| Raison  | M1, L1, L3 | L4, L5, L8, L10  |
 | Religion | L4   | M1, L5, L6  |
 | Science | M1, L5 | ...  |
-| Technique | L7   | L6, L8  |
+| Technique | L7, L9   | L6, L8  |
 | Temps | ... | L2, L8  |
-| Travail | L7   | ...  |
-| Vérité  | L2, L3, L5 | L4, L5  |
+| Travail | L7   | L9  |
+| Vérité  | L2, L3, L5 | L4, L5, L9  |
 
