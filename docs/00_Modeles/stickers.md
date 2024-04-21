@@ -7,7 +7,7 @@ permalink: /Modeles/essai
 published: false
 ---
 
-## Stickers   
+## Stickers  
 
 {: .highlight }
 texte fond jaune
