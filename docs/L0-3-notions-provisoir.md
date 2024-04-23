@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Index des notions
-parent: Présentation de l'année
-nav_order: 3
-published: true
+nav_order: 40
+published: false
 ---
 ## Index détaillé des notions par leçon 
 
