@@ -5,16 +5,17 @@ nav_order: 1
 ---
 
 **Leçons de philosophie des classes de Terminale Tronc Commun**   
-**(La Condamine, Quito, 2023 - 2024)**  
+***(La Condamine, Quito, 2023 - 2024)***  
 
 {: .nouveau-title }
-> À PROPOS
+> COMMENT ÇA MARCHE ?
 >
-> - Vous trouverez sur ce site les documents des cours de Philosophie de Terminale Tronc Commun
-> - **Accès aux leçons** : menu à gauche
-> - Accès à la [**→ méthode**](/philotg/docs/methode.html)
-> - Menu du haut : accès aux cahiers de texte, au tableau des notions
+> - *Vous trouverez sur ce site les documents des cours de Philosophie de Terminale Tronc Commun*
+> - Accès aux leçons : menu à gauche et sommaire plus bas dans cette page
+> - Le [**→ tableau des notions**](/philotg/docs/Présentation/L0-2-tableau.html) vous informe des notions abordées
+> - L'[**→ Index**](/philotg/docs/Présentation/L0-3-notions.html) résume les thèses vues en cours
 > - Le [**→ cahier de texte**](/philotg/docs/divers/cdt/cdt.html) vous informe sur l'avancée du cours chaque semaine
+> - Accès à la [**→ méthode**](/philotg/docs/methode.html)
 > - Vous pouvez faire une recherche par mots clés en haut du site en cliquant sur l'icône 🔍
 >> *Rolland Auda, La Condamine, Quito, 2023-2024*
 
