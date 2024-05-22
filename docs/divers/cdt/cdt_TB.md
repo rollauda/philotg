@@ -11,9 +11,9 @@ published: true
 
 | Semaine     | Contenu     | Notions | Travaux |
 | :------------------- | :-------------- | :-------------- | :-------- |
-| 03/06 | [Leçon 14](../../../docs/L14/L14-0-0.html)   | TEMPS  | ...  |
+| 03/06 | - [Criton](../../../docs/Criton/L11b-0-0.html) <br> - [Leçon 14](../../../docs/L14/L14-0-0.html)   | JUSTICE, ETAT, TEMPS  | ...  |
 | 27/05 | [Leçon 13](../../../docs/L13/L13-0-0.html)   | ÉTAT, JUSTICE  | ...  |
-| 20/05 | [Criton](../../../docs/Criton/L11b-0-0.html)   | DEVOIR, JUSTICE, ÉTAT  | ...  |
+| 20/05 | [Leçon 12](../../../docs/L12/L12-0-0.html)   | LIBERTÉ, INCONSCIENT  | ...  |
 | 13/05 | - [Leçon 10](../../../docs/L10/L10-0-0.html) <br> - [Leçon 11](../../../docs/L11/L11-0-0.html)    | DEVOIR, JUSTICE  | ...  |
 | 06/05 | [Leçon 9](../../../docs/L9/L9-0-0.html)   | ART, TECHNIQUE  | ...  |
 | Vacances de printemps | ---------  | ---------  | ---------  |
